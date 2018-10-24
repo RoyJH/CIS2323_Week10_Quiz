@@ -20,7 +20,7 @@ public class FormLetterWriter{
 			String firstName = first;
 			String lastName = last;
 			System.out.println("Dear " + firstName + " "+ lastName);	
-			ystem.out.println("Thank you for your recent order.");
+			System.out.println("Thank you for your recent order.");
 	
 		}
 }
